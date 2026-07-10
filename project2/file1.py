@@ -8,8 +8,8 @@ data = {
 
 df = pd.DataFrame(data)
 
-# new_roc = {'Name':'GIFE', 'age':30}
-# df.loc[len(df.index)] = new_roc
+new_roc = {'Name':'GIFE', 'age':30}
+df.loc[len(df.index)] = new_roc
 
 
 data_dir = 'data'

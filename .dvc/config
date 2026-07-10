@@ -1,0 +1,4 @@
+[core]
+    remote = remote3
+['remote "remote3"']
+    url = ../project2/s3
